@@ -1,0 +1,18 @@
+ALEX KUMAR
+Java Developer
+Email: alex.kumar@example.test
+
+SUMMARY
+Software developer focused on Java backend applications.
+
+SKILLS
+Java, Spring Boot, REST APIs, MySQL, Kafka, Docker, Kubernetes.
+
+EXPERIENCE
+Developer | Demo Systems | 2021-2026
+- Developed Spring Boot microservices.
+- Integrated REST endpoints with MySQL.
+- Used Kafka for asynchronous event processing.
+
+EDUCATION
+B.Tech Information Technology, Demo Institute, 2021

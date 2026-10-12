@@ -1,0 +1,18 @@
+JOHN DOE
+Backend Software Engineer
+Email: john.doe@example.test
+
+SUMMARY
+Backend developer with 3 years of experience building REST APIs and services.
+
+SKILLS
+Python, FastAPI, PostgreSQL, Docker, Git, unit testing.
+
+EXPERIENCE
+Software Engineer | Example Labs | 2023-2026
+- Built Python REST APIs and background jobs.
+- Improved API response time through query optimization.
+- Added automated tests and Docker-based local development.
+
+EDUCATION
+B.S. Computer Science, Example University, 2022

@@ -1,0 +1,18 @@
+JANE SMITH
+Data Analyst
+Email: jane.smith@example.test
+
+SUMMARY
+Analyst experienced in reporting, dashboards, and data quality.
+
+SKILLS
+SQL, Excel, Tableau, Python, pandas, data visualization.
+
+EXPERIENCE
+Data Analyst | Sample Analytics | 2022-2026
+- Created dashboards for product and operations teams.
+- Used Python and SQL to clean and validate datasets.
+- Automated recurring reports.
+
+EDUCATION
+B.A. Statistics, Sample College, 2022

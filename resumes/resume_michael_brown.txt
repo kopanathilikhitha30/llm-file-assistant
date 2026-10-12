@@ -1,0 +1,18 @@
+MICHAEL BROWN
+Cloud Support Engineer
+Email: michael.brown@example.test
+
+SUMMARY
+Cloud support engineer with experience in Linux systems and monitoring.
+
+SKILLS
+Linux, AWS, Bash, networking, monitoring, incident response.
+
+EXPERIENCE
+Support Engineer | Cloud Example Co. | 2020-2026
+- Investigated service incidents and documented root causes.
+- Created Bash scripts for routine operational tasks.
+- Monitored service health and escalated production issues.
+
+EDUCATION
+B.S. Information Systems, Example State University, 2020

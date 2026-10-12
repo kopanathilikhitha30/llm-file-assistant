@@ -1,0 +1,18 @@
+PRIYA SHARMA
+QA Automation Engineer
+Email: priya.sharma@example.test
+
+SUMMARY
+QA engineer specializing in automation and reliable releases.
+
+SKILLS
+Python, Selenium, pytest, API testing, Postman, GitHub Actions.
+
+EXPERIENCE
+QA Engineer | TestWorks | 2022-2026
+- Wrote Python automation scripts and regression tests.
+- Tested REST APIs and documented defects.
+- Integrated automated checks into CI workflows.
+
+EDUCATION
+B.E. Computer Engineering, Test University, 2022
